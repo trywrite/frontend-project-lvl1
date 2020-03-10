@@ -21,9 +21,10 @@
   },
   "homepage": "https://github.com/trywrite/frontend-project-lvl1#readme",
   "devDependencies": {
-    "readline-sync": "^1.4.10"
+    "fstream": "^1.0.12"
   },
   "dependencies": {
+    "readline-sync": "^1.4.10",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
